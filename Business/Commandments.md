@@ -73,3 +73,12 @@ Define User Goals
 Define Scenarios and User Stories
 Define Personas
 Do Usability Tests with Users and prepared test scenarios and record tests
+
+# Pitfalls
+
+- Transfer of intellectual property to the company
+- Define Equity from beginning
+- Sign Non-Disclosure Agreements (NDA)
+- Secure intellectual property with Trademarks or Patents
+- Sign Technology and Invention Assignments Agreements with Employees
+- Don't post the same content on all social networks at the same time
