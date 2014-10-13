@@ -1,7 +1,7 @@
 1. Supervised learning (we teach the computer how to learn)
 - Regression: Predict a continuous valued output.
 - Linear regression with one variable aka. Univariate linear regression.
-- - Goal is to minimize cost function -> Gradient descent (optimize local minimum)
+Goal is to minimize cost function -> Gradient descent (optimize local minimum)
 
 - Classification: Discrede valued output (0 or 1).
 
