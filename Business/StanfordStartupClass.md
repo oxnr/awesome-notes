@@ -275,4 +275,86 @@ Every single startup should have one metric that matters (Sen messages for Whats
 
 Affiliate model: Active confirmed registered users instead of registered users
 
-Magic moment that gets a user hooked (Facebook: See your friends) 
+Magic moment that gets a user hooked (Facebook: See your friends)
+
+Get users to feel love, joy and happiness
+
+Don’t worry about users who use your product every day
+
+What is the north start (that one metric)They are correlated anyway so it doesn’t matter
+
+Have a north start and know the magic moment, think about the margin user don’t think about yourself
+
+Tactics
+
+Internationalize for growth
+
+10 Friends in 14 days and focus on magic moment
+
+Let the community translate or interact with whatever you’re trying to do
+
+Prioritize the right languages (french, italian, german, spanisch)
+
+Don’t build for what the world is today, build it for the future
+
+Virality
+
+A. Payload (How many people)
+B. Frequency (Ho many times)
+C. Conversion Rate (How many will convert)
+
+Hotmail example (Sent from hotmail free)
+
+Remove friction from the flow to optimize conversion
+
+If you hit someone with the same creative over and over again they are less likely to click that creative
+
+Import
+Send
+How many people
+How many click
+How many signup
+
+Calculate k-factor (Get the factor over 1)
+
+SEO
+
+Keyword research is essential
+
+What do people search for
+How many people search for it
+How many others ranking for it
+How valuable is it
+
+Google Adwords Keyword Planner tool is the best
+
+Single most important thing is to get links from high authority websites
+
+Do the basics (XML Sitemaps, Headers etc.)
+
+E-Mail might be dead for people younger than 25
+
+E-Mails, SMS and Push all behave the same way
+
+Don’t push power users and annoy them, it’s hard to connect to them once they open out
+
+Target newsletters don’t board cast
+
+Example (I get a lot of likes and don’t want to be notified but for the first user it is the magic moment when he gets first like)
+
+Trigger based notifications
+
+A good plan violently executed today is better than a perfect plan tomorrow
+
+Don’t be afraid to break stuff
+
+Retention
+
+All of your users are on your product after one day
+No one would have been there after 365 days
+
+All of your users who have been on your product one day, what percentage of them are monthly active
+
+100% for the first 30 days
+
+what percentage was monthly active after 31 days
