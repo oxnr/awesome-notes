@@ -4,8 +4,10 @@ Because some MBA who doesn't know it better wants to see one.
 
 1. Executive Summary
 2. the team
-- Management Profile
-- Why We Are a Winning Team
+
+Management Profile
+Why We Are a Winning Team
+
 3. the business model
 - Vision, Mission, and Values
 - How Our Business Model Works (integrate Canvas)
