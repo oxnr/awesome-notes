@@ -1,4 +1,4 @@
-Lesson 1:
+## Lecture 1
 
 Sam Altman
 build stuff and be around smart people, in best case people who are smarter than you
@@ -84,7 +84,7 @@ Net Promoter Score
 
 Ignore everything else until you get this right.
 
-Lesson 2:
+## Lecture 2
 
 3. Team
 
@@ -187,7 +187,7 @@ Don't worry about competitors at all unless they ship a better product.
 
 Don't spend more money than you have.
 
-Lesson 3:
+## Lecture 3
 
 Startup are counterintuitive (don't follow your instincts)
 Pick people like you would pick people you would be friends with
@@ -221,7 +221,60 @@ No business school because they're focused on management you need to design prod
 
 Side-projects are the best startups ideas
 
-Lesson 5:
+## Lecture 4
+
+### Version 1
+Build fast, optimize manual before automation
+Perfection is irrelevant
+Only worry about generic use
+Beware of frankenstein
+
+### Ready for a lot of users
+
+Learn one channel at a time
+Creativity is key
+
+Types of growth
+
+1. Sticky growth
+2. Viral growth
+3. Paid growth
+
+Key = Sustainability
+
+Sticky growth
+
+Good experience, CLV + retention + cohort analysis
+repeat users
+
+### Where to start
+a. learn / become an expert in your industry
+b. identify customer segments
+c. Storyboard ideal ux
+
+Become your customer
+Be obsessed
+Read quarterlies of competitors
+
+What is v1?
+MVP
+Simple product positioning
+Define customers
+
+First few users
+You
+Your family, co-workers
+Online communities / mailing lists
+e-mail, pr, bloggers
+
+Customer feedback
+support@ / phone
+survey, interview
+metrics / retention
+ask why / better feedback when they pay for it
+
+
+## Lecture 5
 
 Business Strategy and Monopoly
 
@@ -258,7 +311,7 @@ There is no wisdom in crowd, when a lot of people are doing something it's proba
 
 We're too focused on iterative models (Lean startup) rather than creating value
 
-Lecture 6:
+## Lecture 6
 
 The single most important factor to growth is retention
 You need the flattened curve to be parallel to the x-axis
