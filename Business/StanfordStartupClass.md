@@ -411,3 +411,60 @@ All of your users who have been on your product one day, what percentage of them
 100% for the first 30 days
 
 what percentage was monthly active after 31 days
+
+# Lecture 7
+
+Growth is the result of two variables (Conversion and Churn)
+The get to a billion dollar company acquire that first dollar
+
+Be fanatical about creating meaningful relationships with your users
+
+First time interactions are crucial (Homepage, Landing pages, Plans, Pricing, Login, Signup etc.)
+Other memorable things (First e-mail, account creation, starting interface, login link, ad link, first support)
+
+Take it for granted quality and Enchanting quality
+
+Put a smile on peoples faces - create emotions
+
+Create a poem not just a form - create an experience
+
+## Examples:
+- Call to action "Get in there!"
+- After trial expires we change font to comic sans ms
+- hurl check http requests
+- Mailchimp redesigned help pages so they look like magazine covers
+- Automatically copy api keys to examples codes (stripe)
+- Win a battle axe wufoo hackathon
+
+There often is a disconnect between development and design and other areas (especially after launch)
+Support Driven Development (SDD) - Make everyone do customer support
+Creators = Supporters
+
+Support responsible developers are the best supporters
+
+Red phone at kayak (after the third call the developer fix it and the calls stop)
+
+Response time 7-12 minutes for customer support
+
+There is direct correlation of how much time we spent with users and how good the user experience is
+
+Every six weeks for at least two hours direct exposure
+
+There is a knowledge gap if you add new features you increase it
+
+1% increase in conversion rate (new users) and 1% decrease in churn do exactly the same
+
+Alter system check time since last login and show whats changed in the product
+
+Handwritten thank you cards to users
+
+## Market domincance
+- Best price
+- Best product
+- Best overall solution
+
+Focus on the people who are the most passionate
+Number one focus is quality and make it as easy to use then polish
+Make the smallest version of each single idea (one or two weeks)
+
+King for a day (random person whas chosen, got ressources and could do what he thought is rigth) even if the choice is not right that made a difference in the app
