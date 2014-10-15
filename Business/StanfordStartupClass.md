@@ -468,3 +468,4 @@ Number one focus is quality and make it as easy to use then polish
 Make the smallest version of each single idea (one or two weeks)
 
 King for a day (random person whas chosen, got ressources and could do what he thought is rigth) even if the choice is not right that made a difference in the app
+
