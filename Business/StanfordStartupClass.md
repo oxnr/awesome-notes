@@ -469,3 +469,92 @@ Make the smallest version of each single idea (one or two weeks)
 
 King for a day (random person whas chosen, got ressources and could do what he thought is rigth) even if the choice is not right that made a difference in the app
 
+# Lecture 8
+
+Test hypothesis with a simple landing page and measure conversions (phone calls, e-mail etc.)
+
+In the beginning just hack together solutions noone cares about a proper backend or scalable solutions
+
+The mantra of do things that don't scale
+
+Personalized e-mails to every single customer - get early customer feedback
+
+1. Test your hypothesis
+2. Launch fast
+3. Do things that don't scale
+
+## Finding your first users
+
+There's no perfect solution for user acquisition
+
+First users are impossible hard to get
+
+Do whatever it takes to bring in your first customers
+
+Don't focus on ROI, focus on growth
+
+Don't give away your product for free (unsustainable strategy)
+
+## Turning those users into champions
+
+A champion is a user who talks about & advocates for your product
+
+Handwritten cards, etc, something special
+
+Deligh your user with experiences they will remember
+
+Talk to you users!! (constantly, for as long as possible)
+
+Run customer service as long as possible
+
+Proacticely reach out to current & churned customers
+
+Social media/communities
+
+Problem are inevitable, do whatever it takes to make them right
+
+## Findings product/market fit
+
+The product you launch with will not be the product that finds market fit
+
+Optimize for speed over scalability/clean code
+
+Only worry about the next order of magnitude (from 0 to 1, from 1 to 10, from 10 to 100 etc.)
+
+Stuff will break, you will make it work, you will survice just do it
+
+Do things that don't scale as long as you possibly can
+
+## PR
+
+Press should have targeted audience and goals (Investors, Customers, Industry)
+
+What is a story
+* Product launches
+* Funraising
+* Milestones / metrics
+* Business overview
+* Stunts (crazy events)
+* Hiring announcements
+* Contributed articles
+
+Think about your story objectively
+
+You don't have to be original, just original enough
+
+Mechanics of a story
+1. Think of a story
+2. Get introduced
+3. Set a date (4-7 days in advance)
+4. Reach out
+5. Pitch
+6. Follow up
+7. Launch your news!
+
+Have direct contact, phone call is better than e-mail
+
+Draft the story in bullet points
+
+Keep contacts fresh, stay in touch
+
+Make schedule and calendar when to launch what (klout, buffer)
