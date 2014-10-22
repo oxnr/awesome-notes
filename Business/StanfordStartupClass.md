@@ -558,3 +558,79 @@ Draft the story in bullet points
 Keep contacts fresh, stay in touch
 
 Make schedule and calendar when to launch what (klout, buffer)
+
+# Lecture 9
+
+What makes you decide to invest in a company?
+
+* Is this person a leader? You have to be a born leader.
+* Is the person focused and obsessed.
+* Is it based on a personal problem and experiecnce?
+* How are the communication skills?
+
+* VC Business is a game of extreme outliers
+* Invest in strength vs. lack of weaness
+* Have an extreme strength that makes you an outlier
+
+* You gotta be able to say in one sentence what your business does
+* You have to make be decisive and make decisions (procastination is devil)
+* Decisions to hire decisions to fire
+* Once you have a product it's all about execution and building a great team
+
+* Make it simple and understandable (simple and clear)
+* Pitch a business that don't need to raise money
+* Bootstrap as long as you possibly can
+* Be so good they can't ignore you
+* You're always better of making your business better than making your pitch better
+* Raising money is the easiest thing compared to recruiting, building a good product, growth etc.
+
+What do you which founders to do differently?
+
+* Single biggest thing most entrepreuners are missing is the relationship between risk and cash
+* Make a list of risks (founding risks, product risks, launch risks, revenue risks, cost of sale risk, viral growth risk)
+* Then peel away some of the risks (raise money to peel away first risks) and achieve milestones
+* Calibrate the amount of the money you raise to the risks
+* Don't ask people to sign for a NDA
+* Do fundraising ASAP - hurry up and get it over
+* E-Mail and confirm what just have been communicated (put everything in writing)
+* In meetings take notes and follow-up
+
+How does the process go?
+
+* One investment per 30 companies they look at
+* Leads from own network evaluate opportunities (due dilligence)
+* Top tier investors only invest if seed round was raised before
+* If the founder has been a sucessfull founder in the past, a straig Seria A can be raised (trust)
+
+What terms should founder care most about, how should they negotiate?
+
+* Pick the right seed investors
+* Get introduced (good introductions matter a lot)
+
+What should the valuation be?
+
+* Threshhold for seed seems to be below 10 million
+* Don't raise more than you need
+
+How much equity should founders give away?
+
+* Seed, 10% - 15%
+* Series A, you should sell 20% - 30%
+* Check dilution (you end up with 5% after multiple rounds)
+
+Most succesful investment ever made?
+
+* Investment in Google (Intro by Stanford Prof.)
+* Investmehr at AirBnb (Growth Round)
+
+When you start a company, find someone as good or better than you. Chances of success will grow astronomically
+
+Mark Zuckerberg is an outlier
+
+Operational excellence matters a lot
+
+Working with your Co-Founders should be considered a marriage (Investment for life)
+
+The biggest constraint is the concept of opportunity costs, it's not about loosing the money but an investment rules out conflicts (one investment per category - lockout/conflict policy) and requires time and effort
+
+MVP doesn't make sense for a SaaS product, then a straight A round can be raised
