@@ -634,3 +634,58 @@ Working with your Co-Founders should be considered a marriage (Investment for li
 The biggest constraint is the concept of opportunity costs, it's not about loosing the money but an investment rules out conflicts (one investment per category - lockout/conflict policy) and requires time and effort
 
 MVP doesn't make sense for a SaaS product, then a straight A round can be raised
+
+# Lecture 10
+
+## What is company culture?
+
+Everyday core values and actions of each member of the team in pursuit of our company mission.
+
+"Your beliefs become your thoughts. Your thought become your words. Your words become your actions. Your actions become your habits. Your habits become your values. Your values become your destiny."
+
+## Why does it matter?
+
+- First principles
+- Alignment
+- Stability
+- Trust
+- Exclusion
+- Retention
+
+## Core value worksheet
+
+1. As the leader, what personal values are most important to you?
+2. What are the most important values for business success?
+3. What values will you look for in employees?
+4. What could never be tolerated?
+5. Remember to incorporate your mission into your core value
+
+## Elements of high performing teams
+
+Trust -> Conflict -> Commitment -> Accountability -> Results
+
+## Best practises for culture
+
+1. Incorporate your mission to your values
+2. Performance = think harder, deeper, longer about values
+3. Interview for culture fit
+4. Evaluate performance on culture as well
+5. Make it a daily habit
+
+At some point you shift from building the product to building the company that builds the product.
+
+If you can't build a great company your product will not endure.
+
+There have to be unique values if you would only want to tell 3 or 4 things, what would it be?
+
+Hire people that come for a mission (not for office design, valuation etc.) not just for a job
+
+Founding DNA become the principles later
+
+Constantly hire someone better and smarter than you and keep evolving
+
+Culture are the vlaues in the inside and brand is the promise on the outside
+
+There is no good or bad but strong or weak culture
+
+Articulate vision over and over again
