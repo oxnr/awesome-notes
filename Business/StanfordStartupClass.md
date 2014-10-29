@@ -689,3 +689,30 @@ Culture are the vlaues in the inside and brand is the promise on the outside
 There is no good or bad but strong or weak culture
 
 Articulate vision over and over again
+
+# Lecture 11
+
+### What the core pieces of culture?
+
+1. Who do you hire?
+2. What do you do everyday?
+3. What do you communicate?
+4. What to choose to celebrate/punish?
+
+Internal trancparency and to use the right tools
+
+### What do you look for when hire the initial employees (first 10)?
+
+Look for people you want to work with and who are smart
+
+Look for people who work hard and are creative
+
+People who are excited about many disciplines and extraordanary in one
+
+Want to build something great and take the risk
+
+The first ten people will have an immense influence
+
+### What have you done to make the first people happy and effective?
+ 
+Get them up and running and make them do real world
