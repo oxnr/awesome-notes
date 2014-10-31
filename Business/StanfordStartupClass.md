@@ -716,3 +716,104 @@ The first ten people will have an immense influence
 ### What have you done to make the first people happy and effective?
  
 Get them up and running and make them do real world
+
+# Lecture 12
+
+Building for the Enterprise
+
+## How to get here?
+
+* In 2004 it was really hard to share files
+* Cost of storage was dropping
+* More powerful browser and networks
+* More locations and people to share with
+
+Always look for changing environment / technology factors
+
+* Over-developed for consumers and under-developed for enterprises
+* Consumer space is fun but how to you monetize (payed vs. ads) - B2C
+* There is a bigger market and revenue in the enterprise space (3.7 trillion USD) - B2B
+* No love and care for user design and experience in enterprise products
+
+Everything in Enterprise has changed
+
+* On-premise computing moves to cloud
+* Expensive computing becomes cheap
+* Customized software is standardized
+* Large enterprises before, now every business
+* Regional before now global
+* IT-Led before now user-led
+
+Decades of infrastructure is now moving to the cloud in enterprises
+
+Open platforms are more asked  that customizations
+
+IT model of enterprise shifts to user, selling comes laters
+
+Nearly 2 billions smart phones in the planet
+
+Nearly 3 billion people online
+
+Every industry is going through a technology and business model disruption right now
+
+* Retail
+* Healthcare
+* M&E
+* Education
+* Advertisting
+* Hi-Tech
+* Construction
+* Package Goods
+* Energy
+* Government
+* Legal
+* Manufacturing
+
+They need technology from startups to get through this
+
+Steps
+
+1. Identify underlying technology changes that the company will face in a couple of years
+2. There is going to be software that serves those needs
+
+Every company in the world needs better technology to work smarter, faster and more securely
+
+## How to you get started?
+
+### Spot disruptions
+
+Look for new enabling technologies that create a wide gap between how things have been and how they can be done
+
+### Intentionally start small
+
+Start with something simple and small then expand over time. If people call it a "toy" you're definitely onto something.
+
+Identify the gaps in the full solutions
+
+### Find asymmetries
+
+Do things than incuments can't or won't do because it's economically or technically infeasible.
+
+### Find the almost crazy outliers
+
+Go after the customers that are working in the future, but that haven't totally lost their minds.
+
+Ask what is missing in the future or a future scenarios?
+
+### Listen to customers
+
+But don't always build exactly what they want. Build what they need.
+
+### Modularize don't customize
+
+Every customer will want something a little bit different. Don't make the product suffer for this. (Salesforce)
+
+Think about Openness and API's.
+
+### Focus on the user
+
+Keep "consumer" DNA at the core of your enterprise product. This will always pay dividends.
+
+### Your product should sell itself
+
+Sales should be used to navigate customers and close deals, not be a substitute for a great product.
