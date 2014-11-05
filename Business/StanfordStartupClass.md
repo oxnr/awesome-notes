@@ -817,3 +817,56 @@ Keep "consumer" DNA at the core of your enterprise product. This will always pay
 ### Your product should sell itself
 
 Sales should be used to navigate customers and close deals, not be a substitute for a great product.
+
+# Lecture 13
+
+### Skills that are important
+
+* Delegation
+* Location
+* Vision
+* Focus
+* Flexibility
+* Evaluation
+* Confidence
+* Risk
+* Data
+* Persistence
+* Going Public
+* Communication
+* Operations
+* Business Strategy
+* Execution
+* Pivoting
+* Product
+* Growth Hacking
+* Design
+* Competition
+* Recruiting
+* Financing
+* Legal
+* Equity
+* Scaling
+* Marketing
+* Idea
+* Founding Team
+
+It's better to have 2 or 3 people in the team so you can compensate missing skills
+
+High trust between founders is very important
+
+Where is the strongest network for the particular problem i'm trying to solve
+
+You dont want so start a sales or fashion company in silicon valley
+
+What do you as a founder know what other people don't know that acually plays out to be true
+
+Data only exists within a framework of a vision you are building to
+
+You need to take risks and on the same hand minimize risks
+
+How does the feedback you get from smart people change your confidence level?
+
+There is not one skillset but rather have vision thats driving you and then create a network around it
+
+Don't try to boil the ocean or go after a swiss knife approach but really focus especially in the beginning
