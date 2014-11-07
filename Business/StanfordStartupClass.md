@@ -870,3 +870,40 @@ How does the feedback you get from smart people change your confidence level?
 There is not one skillset but rather have vision thats driving you and then create a network around it
 
 Don't try to boil the ocean or go after a swiss knife approach but really focus especially in the beginning
+
+# Lecture 14 - How to operate
+
+Building a company is like building an engine, you are first architecting on a whiteboard but the reality is hard
+
+Focus on increasing the output not the input
+
+It should feel like a mess and chaotic (new problems everyday) otherwise you're innovating to slow
+
+The most important part is to clarify and simplify and omit things
+
+Don't accept excuses that things are to complicated
+
+Optimize process so you're omitting less every month
+
+Have a consistent voice everywhere, everything should feel the same
+
+Instruct more if the employee is unexperiened, let them free if they have experience
+
+You don't get more done by hiring, sometimes even less
+
+Keep expanding responsibility until it breaks, leave it there
+
+**Insist on focus** - There should only be one thing / problem you should talk about
+
+Prioritize (1, 3, 5 rule)
+
+Build a simple dashboard (drafted by founder, metrics for success, showing key value preposition)
+
+How many employees are using you're dashboard every day?
+
+Be transparent, show everything, talk about everything
+
+Show and review board slides with everyone in the company
+
+
+
