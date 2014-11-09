@@ -1,4 +1,4 @@
-## Lecture 1
+# Lecture 1
 
 Sam Altman
 build stuff and be around smart people, in best case people who are smarter than you
@@ -905,5 +905,9 @@ Be transparent, show everything, talk about everything
 
 Show and review board slides with everyone in the company
 
+Transparent compensation works in sports why shouldn't it in business?
 
+Details matter, the whole piece of work makes the overall result (start with the food people eat)
+
+# Lecture 15
 
