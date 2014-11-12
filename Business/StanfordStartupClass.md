@@ -911,3 +911,29 @@ Details matter, the whole piece of work makes the overall result (start with the
 
 # Lecture 15
 
+## One Management Concept
+
+When making a critical decision, you must understand how it will be interpreted from each persons point of view and its ompact on the union of the individual views.
+
+You have to be formal to save your own culture
+
+There has to be a process for a salaray instead even if the employee has done a great job
+
+Don't do things offcycle or just because you asked so you have to be really aggressive
+
+**Perspectives***
+
+- You
+- Employee
+- Everyone else (culture)
+
+SV companies dilute 6-8% per year when they are private for employee comp
+
+1. Treat employees with the utmost straight-forwardness and fairness and give 10 years exercise for stocks
+2. Tell up front what guarantees they have in terms of salary and stock options
+
+It's not your perspective or the perspective of the person that you are talking to at the moment that matters. You must consider the people who are not in the room.
+
+They are the company.
+
+They are the culture.
