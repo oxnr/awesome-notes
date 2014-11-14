@@ -937,3 +937,27 @@ It's not your perspective or the perspective of the person that you are talking 
 They are the company.
 
 They are the culture.
+
+# Lecture 16 - How to Run a User Interview
+
+Talk to the different types of users (especially if you're building a multi-sided platform)
+
+## Example for note taking app
+
+1. Who would you go ask for feedback? And do you find them? (write it down)
+
+- target college students
+- different types of students (schools, types)
+- college it / administrators (they spend money)
+- parents / other responsible people
+- digg into details and listen to potential users
+- users think they know what they need
+
+2. If you could build just one feature on top of google docs, what would they be?
+
+Focus on just one-thing that makes it a little better than google docs
+
+- Collaborative aspects of google docs but designed more around note taking
+
+Validate that idea further becomes you actually build it
+
