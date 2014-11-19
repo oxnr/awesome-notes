@@ -961,3 +961,107 @@ Focus on just one-thing that makes it a little better than google docs
 
 Validate that idea further becomes you actually build it
 
+# Lecture 17 - How to design hardware products
+
+Internet of things is happening right now
+
+You have to be great at everything
+
+- Hardware
+- Software & Services
+- Data
+
+etc.
+
+Everything is a system and connected, don't look at it in silos
+
+### Process
+
+- Exploration
+- Early Validation
+- Concept
+- Planning
+- Development
+- Continued Innovation
+
+**Exploration**
+
+Unbridled Imagination
+
+- Vision
+- Brand
+- Strategy
+
+Futuristic design of what the world is going to look like in the future
+
+**Early Validation**
+
+Proving your thesis like a Ph.D.
+
+- Exploring the system
+- Outling a story
+
+**Concept**
+
+Big, human-centric concepts
+
+- Starting on a journey
+- Excitement about whats possible
+- Asking big questons
+- Selling the experience
+
+**Planning**
+
+Emerge of a product
+
+- No turning back
+- Building belief
+- Trade-off conversations and creative problem solving
+
+**Development**
+
+Bringing it to life
+
+- Anchoring the relay
+- Having a shared understanding of what, why & how
+
+Initial launch
+
+**Continued Innovation**
+
+Feeding the fire
+
+- Going from imagination to execution on specific challenges
+- Creating dialogue with the world
+
+### The Framework
+
+- Whys (a clear and memorable articulation of the humand and business problem we are solving)
+- Themes (Experience-based story tracks that translates "whys" into actionable concepts)
+- Pods (Cross-functional teams empowered to explore, act on and ultimately own a theme)
+- Hero/Sidekick experience (scenarios that evaluate concepts to signature solution)
+- Features (building blocks of the core object of experience)
+
+### User experience process
+
+1. Research (Whys - a list of customer problems to solve)
+2. Inisght (Principles - approach to solving problems)
+3. Conept (Hows - proposed solutions to the problem presented as experience scenarios)
+4. Design & Build (What - Requirements that have to be included in the product)
+
+### Example
+
+**Whys of Up24**
+
+1. Real-time feedback helps me stay on track and achieve my goals today, rather than try to do better tomorrow
+2. I need to understand my data in a more meaningful, relevant and timely context that makes the "so what" obvious
+3. I need guidance, including structured and motivating activities to keep me going
+4. I want ongoing encouragement and in-the-moment validation that i'm on the right track and doing well
+5. I want a more fluid and frictionless way to manually log activities and never want to "miss" a sleep
+
+### Behavioural Loop
+
+1. Track (Create habit of logging)
+2. Understand (Reflect learning about what you track)
+3. Act (Combine everything to trigger action as early as possible)
+
