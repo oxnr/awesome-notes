@@ -1065,3 +1065,46 @@ Feeding the fire
 2. Understand (Reflect learning about what you track)
 3. Act (Combine everything to trigger action as early as possible)
 
+# Lecture 18 - Legal & Accounting
+
+### Entity
+
+- Delaware corporation
+- Keep it simple
+
+### Organization
+
+- Future due diligence requirements
+- Humdrum reality of running a startup
+
+### Equity
+
+- Execution > Idea
+- How much equity for each founder?
+- Look forward, not backwards
+
+Don't overinflate prior experience, education or who came up with the idea.
+
+It always feels better if the allocation is equal.
+
+### Vesting
+
+- Vesting is earning the right to permanent ownership of the shares over time
+- Standard vesting = 4 years w/1 year cliff
+
+## Fundraising
+
+### Logistics
+
+- Priced (Series A, B etc.) vs. Non-priced Rounds (i.e. Seed)
+- Potential dilution
+- Only get money from professional and sophicasted investors
+- Raise money using standard documents
+
+Keep track of all expenses
+
+Founders are employees of the company and must be paid wages / salary.
+
+Early employees should get equity
+
+When firing employees eliminate access and repurchase unvested stock
