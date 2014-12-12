@@ -1108,3 +1108,144 @@ Founders are employees of the company and must be paid wages / salary.
 Early employees should get equity
 
 When firing employees eliminate access and repurchase unvested stock
+
+# Lecture 19 - Sales and Marketing
+
+The first sales people is you!
+
+Build or sell - nothing else matters.
+
+## The Sales Funnel
+
+1. Prospecting
+2. Conversations
+3. Closing
+4. Revenue / Promising Lead
+
+### Prospecting
+
+Find the innovators (2,5%)
+
+Reach out to to > 100 companies
+
+Your networks / conferences / cold emails (short and consize)
+
+### Conversations
+
+Don't talk much, let the customers talk (shut up)
+
+Follow-up often even if you don't get a response (be very ambisious)
+
+### Closing
+
+Don't quibble over minor points and use standard open templates
+
+Remember you goal: Get your references, close deals and make revenue
+
+Early on you need commitment, validation and revenue
+
+## How to pitch
+
+### 30 second pitch
+
+What does your company do? (Use simple language)
+
+How big is the market? (What industry is your product in, research)
+
+How much traction do you have? (Launch in January, Beta in March, 30% month over month growth etc.)
+
+### 2 minute pitch
+
+Clear 30 second pitch
+
+Unique insight (secret sauce, competitive advantage, Aha moment, intelligent moment break down to 2 min)
+
+How you make money (advertising, direct sales etc. just say it)
+
+Team (noone cares about Phds, awards etc., Tech people matter, ratio 50/50, how did founders meet)
+
+The Big Ask (Know the jargon, what the cap is, what the valuation is etc.)
+
+### When to fundrais?
+
+Investors should want to invest, not the other way around.
+
+### How to Setup Investor Meeting
+
+- Warm Intros
+- Think Parallel
+- 1 Team Member
+
+### Before Meeting
+
+Avoid common mistakes
+
+Make sure the listener understands what you're working on
+
+Know you numbers
+
+For market size ideally build bottom up analysis
+
+You should understand something that is counter intuitive
+
+Your team should be uniquely suited for this business
+
+Drive the conversation to a conclusion
+
+### During Meeting
+
+### After Meeting
+
+Follow up (anything by a check is a "No")
+
+Work on creating deal heat (supply/demand)
+
+Do dilligence on the investors
+
+Know when to stop (addicted to fundraising)
+
+Build your company (fundraising is not the goal)
+
+# Lecture 20 - Later-Stage Advice
+
+- Management
+- HR
+- Company Productivity
+- Legal, Finance, Acounting, Tax
+- Your Psychology
+- Marketing and PR
+- Dealmaking
+
+This is for months 12-24 (After product market fit)
+
+Waste of time until you have something working
+
+## Managmeent
+
+Need it at about 25 employees
+
+Every employee should have a manager, every manager should know their reports
+
+Know how to change the structure, add new people - just make it clear
+
+**Building a great product > Building a great company**
+
+### Failure Cases
+
+1. Being afraid to hire senior people
+2. Hero Mode - extreme leading by example
+3. Bad Delegation - not giving enough responsibility
+4. Not developing a personal tracking & productivity system
+
+Codify how you do things
+
+## HR
+
+Have a clear structure
+
+Performance Feedback - Simple and Frequent
+
+Compensation Bands tied up to performance
+
+Equity - be generous (Investors will give you bad advice, distribute 3-5% per year)
+
