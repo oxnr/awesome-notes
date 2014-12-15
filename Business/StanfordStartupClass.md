@@ -1249,3 +1249,31 @@ Compensation Bands tied up to performance
 
 Equity - be generous (Investors will give you bad advice, distribute 3-5% per year)
 
+### Stock and Vesting
+
+Keep up with refresher grants
+
+Structures - 6 years, Pyramid Vesting, Continous Forward Vesting
+
+Get an option management system early
+
+### HR cont'd
+
+- 50 employee requirements
+- Monitor for burnout
+- Hiring process
+- New employee ramp-up
+- Think about **diversity** early!
+- Growth of your early employees
+
+## Company Productivity
+
+- One word: alignment
+- Clear roadmap and goals
+- Figure our values early
+- Be run by product, not process
+- Have transparancy and rhythm in communication
+- - Weekly management meetings
+- - All-hands meeting
+- - Quartery and annual planning
+
