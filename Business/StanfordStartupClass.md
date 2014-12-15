@@ -1273,7 +1273,7 @@ Get an option management system early
 - Figure our values early
 - Be run by product, not process
 - Have transparancy and rhythm in communication
-- - Weekly management meetings
-- - All-hands meeting
-- - Quartery and annual planning
+-- Weekly management meetings
+-- All-hands meeting
+-- Quartery and annual planning
 
