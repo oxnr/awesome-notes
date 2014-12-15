@@ -1276,4 +1276,4 @@ Get an option management system early
  - Weekly management meetings
  - All-hands meeting
  - Quartery and annual planning
-
+ - Offsites
