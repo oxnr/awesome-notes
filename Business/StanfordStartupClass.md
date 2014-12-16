@@ -1277,3 +1277,49 @@ Get an option management system early
  - All-hands meeting
  - Quartery and annual planning
  - Offsites
+ 
+### Goal
+
+Build a company that creates enduring value over a long period of time.
+
+## Mechanichs
+
+- Clean books, Accounting Firms, Audits
+- Collect your legal documents - eas to fix now if you're missing something
+- FF stock in the B round
+- IP, Trademarks, Patents
+ - Month 11, Provisional, International
+ - Trademarks, US and international
+ - Domains, misspellings, and all TLDs
+- Financial Planning & Analysis
+- Consider hiring a full-time fundraiser
+- Tax structuring
+
+## Your Psychology
+
+Ignore the haters
+
+Long-term commitment, long-term strategy
+
+Monitor burnout
+
+Focus
+
+Ignore acquisition interest
+
+Startup fails when founders quit
+
+## Marketing & PR
+
+- Start thinking about this once your product is working - don't ignore it
+- Don't outsource the key message
+- Repeat the key message again and again
+- Get to know key journalists
+
+## Deals
+
+- Build a great product
+- Develop a personal connection
+- Have a competitive dynamic
+- Be persistent
+- Ask for what you want
