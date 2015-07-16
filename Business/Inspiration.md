@@ -13,3 +13,5 @@
 - You must begin but studying the end game!
 
 - A good plan violently executed today is better than a perfect plan tomorrow
+
+- Infrastructure is to Information as a bottle is to wine, Technology is just the packaging to deliver information to the customer.
