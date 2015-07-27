@@ -15,3 +15,5 @@
 - A good plan violently executed today is better than a perfect plan tomorrow
 
 - Infrastructure is to Information as a bottle is to wine, Technology is just the packaging to deliver information to the customer.
+
+- Solve your customers Problems not your Competitors Customers Problems.
