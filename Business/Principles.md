@@ -23,3 +23,11 @@
 -  Tutorials / Guides
 -  Code Libraries / SDKs
 -  Samples code / example apps
+
+## Team Spirit
+
+- Share work / knowledge
+- Cosntant Feedback
+- Constant Motivation
+- Common vision and mission
+- No ego allowed
