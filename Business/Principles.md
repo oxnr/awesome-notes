@@ -31,3 +31,5 @@
 - Constant Motivation
 - Common vision and mission
 - No ego allowed
+
+(A-Team + Awesome Product + Huge Market + Right Time) - (Egos + Drama + Politics + Dead Weight)
