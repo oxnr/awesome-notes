@@ -41,3 +41,5 @@ A lot of startups do premature optimization on how to optimize churn, how to imp
 Feedback is all bullshit until someone gives you cash!
 
 No what you don't know and say it - don't bullshit people.
+
+Great tech companies are defined by their people, principles and the way how people work
