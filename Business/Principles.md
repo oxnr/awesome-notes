@@ -37,3 +37,5 @@
 ## Product-Market Fit
 
 A lot of startups do premature optimization on how to optimize churn, how to improve engangement and the funnel, how to market a startup etc. before nailing product market fit.
+
+Feedback is all bullshit until someone gives you cash!
