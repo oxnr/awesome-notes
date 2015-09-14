@@ -33,3 +33,7 @@
 - No ego allowed
 
 (A-Team + Awesome Product + Huge Market + Right Time) - (Egos + Drama + Politics + Dead Weight)
+
+## Product-Market Fit
+
+A lot of startups do premature optimization on how to optimize churn, how to improve engangement and the funnel, how to market a startup etc. before nailing product market fit.
