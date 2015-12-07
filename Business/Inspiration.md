@@ -17,3 +17,5 @@
 - Infrastructure is to Information as a bottle is to wine, Technology is just the packaging to deliver information to the customer.
 
 - Solve your customers Problems not your Competitors Customers Problems.
+
+- Those who are crazy enough to think they can change the world are the ones who do.
