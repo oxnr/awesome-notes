@@ -43,3 +43,19 @@ Feedback is all bullshit until someone gives you cash!
 No what you don't know and say it - don't bullshit people.
 
 Great tech companies are defined by their people, principles and the way how people work
+
+## Engineering Leadership
+
+### Motivators
+- Team
+- Mission
+- Hard tech problem
+- Salary
+
+### Demotivators
+- Annual reviews (just positive feedback)
+- Hierarchies or titles
+- Ranking
+- non technical management
+- ex technical management
+- pick between functionality, shedule and quality
