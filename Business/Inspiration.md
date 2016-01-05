@@ -21,3 +21,5 @@
 - Those who are crazy enough to think they can change the world are the ones who do.
 
 - If you don’t make experiments before starting a project, then your whole project will be an experiment.
+
+- Logic will get you from A to Z; imagination will get you everywhere.
