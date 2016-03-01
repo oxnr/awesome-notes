@@ -1,0 +1,9 @@
+- Open-source
+- Free
+- Dead simple
+- Epic design
+- Blazing fast
+- Latest technology
+- Digital only
+- Fully automated
+- 0 burn
