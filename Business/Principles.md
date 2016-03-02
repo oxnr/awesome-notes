@@ -14,6 +14,8 @@
 2. Showstopper
 3. Distraction
 
+Never require a refresh button in a product.
+
 ## API Designer
 
 -  Implementing best practices and patterns for modern API design
