@@ -14,3 +14,6 @@
 - Really no bullshit
 - No sales required (only customer development)
 - No managed technology (i.e. blog, website etc.) all hosted
+- 100% transparency (reveneue, costs, growth, company status, metrics)
+- No venture capital (100% founder owned)
+- No unfished mvps only awesome products
