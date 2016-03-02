@@ -7,3 +7,10 @@
 - Digital only
 - Fully automated
 - 0 burn
+- No refresh buttons
+- Crisp communication
+- No bullshit
+- No bullshit
+- Really no bullshit
+- No sales required (only customer development)
+- No managed technology (i.e. blog, website etc.) all hosted
