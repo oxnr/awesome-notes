@@ -1,4 +1,4 @@
-- Open-source
+- Open-source (everything, backend, frontent, sdks)
 - Free
 - Dead simple
 - Epic design
