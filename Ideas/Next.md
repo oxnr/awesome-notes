@@ -17,3 +17,4 @@
 - 100% transparency (reveneue, costs, growth, company status, metrics)
 - No venture capital (100% founder owned)
 - No unfished mvps only awesome products
+- Use Animations to tell a story instead of static images
