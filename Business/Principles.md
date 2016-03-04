@@ -61,3 +61,7 @@ Great tech companies are defined by their people, principles and the way how peo
 - non technical management
 - ex technical management
 - pick between functionality, shedule and quality
+
+### Products
+
+![Layers](https://cdn-images-1.medium.com/max/1600/1*uTDWovhGf6miGk_MSRYmTg.png)
