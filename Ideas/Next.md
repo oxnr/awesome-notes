@@ -19,3 +19,4 @@
 - No unfished mvps only awesome products
 - Use Animations to tell a story instead of static images
 - No titles
+- Fun topic, no boring shit, no corporate shit, cutting endge
