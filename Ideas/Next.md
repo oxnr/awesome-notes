@@ -20,3 +20,5 @@
 - Use Animations to tell a story instead of static images
 - No titles
 - Fun topic, no boring shit, no corporate shit, cutting endge
+- No activites (mails etc.) I'd find annoying myself only enchanting experience
+- Something almost everyone can use, even tho specialized first
