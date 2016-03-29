@@ -22,3 +22,4 @@
 - Fun topic, no boring shit, no corporate shit, cutting endge
 - No activites (mails etc.) I'd find annoying myself only enchanting experience
 - Something almost everyone can use, even tho specialized first
+- At least an order of magnitude better of what currently exists
