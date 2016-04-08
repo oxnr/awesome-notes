@@ -23,3 +23,15 @@
 - No activites (mails etc.) I'd find annoying myself only enchanting experience
 - Something almost everyone can use, even tho specialized first
 - At least an order of magnitude better of what currently exists
+
+Role model:
+
+Buffer --> https://buffer.com/transparency.
+
+Code: https://github.com/bufferapp/
+Salaries: https://open.buffer.com/transparent-salaries/
+Salaries Speadsheet: https://docs.google.com/spreadsheets/d/1l3bXAv8JE5RB9siMq36-Ogngks2MT6yQ5gt8YXhUyAg/edit
+Revenue Dashboard: https://buffer.baremetrics.com/dashboard
+Costs: https://open.buffer.com/transparent-pricing-buffer/
+Team: http://timezone.io/team/buffer
+Diversity: http://diversity.buffer.com/
