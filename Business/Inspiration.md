@@ -23,3 +23,5 @@
 - If you don’t make experiments before starting a project, then your whole project will be an experiment.
 
 - Logic will get you from A to Z; imagination will get you everywhere.
+
+- If you start walking the way, the way appears.
