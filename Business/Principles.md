@@ -65,3 +65,7 @@ Great tech companies are defined by their people, principles and the way how peo
 ### Products
 
 ![Layers](https://cdn-images-1.medium.com/max/1600/1*uTDWovhGf6miGk_MSRYmTg.png)
+
+### KPI
+
+- Create Spreadsheet and Update all Metrics Weekly (Inbound, Product, Engagement, Financial)
