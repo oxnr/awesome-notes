@@ -69,3 +69,8 @@ Great tech companies are defined by their people, principles and the way how peo
 ### KPI
 
 - Create Spreadsheet and Update all Metrics Weekly (Inbound, Product, Engagement, Financial)
+
+### Hiring
+
+- Only hire A people
+- A people will hire A people, B people will hire C people
