@@ -74,3 +74,12 @@ Great tech companies are defined by their people, principles and the way how peo
 
 - Only hire A people
 - A people will hire A people, B people will hire C people
+
+### Selling
+
+- The day you decided you become entrepreneurs is the day you decided to become sales people
+- Always have call to action / ask
+
+### Core
+
+Always be awesome because that forms the synapsis in your brain to always be awesome and not mediocre. Whenever you are mediocre you actually train being mediocre, thus become mediocre.
