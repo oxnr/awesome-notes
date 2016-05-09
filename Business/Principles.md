@@ -137,3 +137,8 @@ V for Victory is ideal!
 - Make it stupid simple for all linear thinkers
 - Show me the shiny egg in the box that is going to change the game
 - Always drive flywhell
+
+## Reasons for Failure
+
+- Pain not severe
+- Costs of solving problem not high
