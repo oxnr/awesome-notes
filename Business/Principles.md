@@ -56,6 +56,7 @@ Never require a refresh button in a product.
 - Feedback is all bullshit until someone gives you cash!
 - No what you don't know and say it - don't bullshit people.
 - Great tech companies are defined by their people, principles and the way how people work
+- Money spent in Sales & Marketing is gone, but Technology or Product stays
 
 ## Engineering Leadership
 
