@@ -116,3 +116,13 @@ Never require a refresh button in a product.
   - Whats your goal for this year?
   - What problem are you trying to solve?
   - Why do you want to that? (Ask about the why five times)
+
+## Opportunity Validation (Margin Matrix)
+
+| |Volume|Touch|Margin|
+|---|----|-----|------|
+|High|X||X|
+|Medium||||
+|Low||X||
+
+V for Victory is ideal!
