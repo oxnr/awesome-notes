@@ -131,3 +131,9 @@ V for Victory is ideal!
 
 - Don't charge monthly, charge quarterly its less accounting overhead
 - No contract monthly basis
+
+## Story
+
+- Make it stupid simple for all linear thinkers
+- Show me the shiny egg in the box that is going to change the game
+- Always drive flywhell
