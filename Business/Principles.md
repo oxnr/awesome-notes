@@ -126,3 +126,8 @@ Never require a refresh button in a product.
 |Low||X||
 
 V for Victory is ideal!
+
+## Pricing
+
+- Don't charge monthly, charge quarterly its less accounting overhead
+- No contract monthly basis
