@@ -143,3 +143,4 @@ V for Victory is ideal!
 
 - Pain not severe
 - Costs of solving problem not high
+- Give people exactly what they want, no hidden sneaky intransparent shit
