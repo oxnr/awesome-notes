@@ -23,6 +23,9 @@
 - No activites (mails etc.) I'd find annoying myself only enchanting experience
 - Something almost everyone can use, even tho specialized first
 - At least an order of magnitude better of what currently exists
+- Increadible unit economics
+- Target high values users (i.e. ios, usa)
+- Always think and act 10x
 
 Role model:
 
