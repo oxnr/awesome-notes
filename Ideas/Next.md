@@ -27,6 +27,8 @@
 - Target high values users (i.e. ios, usa)
 - Always think and act 10x
 - No critical customer system but auxiliary -> outage not suppose to affect critical system
+- Eliminate all authentication efforts
+- Not product facing core / only sub process (like segment)
 
 Role model:
 
