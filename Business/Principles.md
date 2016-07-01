@@ -104,6 +104,12 @@ Never require a refresh button in a product.
 - Focus and zero back to the most important thing from time to time
 - Unlearn previous patterns whenever you can
 
+- Lay out assumptions up front, make sure they are defensible
+- Ask upfront: "What are the key things everybody would like to learn today” and make sure you address all questions
+- “I’d rather get somebody that disagrees with my thesis than giving the impression that I haven’t thought of it”
+- Give people what they want or more then what they expect, dont bullshit or force contracts
+- https://medium.com/the-year-of-the-looking-glass/building-products-91aa93bea4bb#.j0lqgopje
+
 ## Politics
 
 - Different Buyer vs. Chooser vs. Implement vs. Users vs. End User to much political overhead
