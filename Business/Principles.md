@@ -154,3 +154,8 @@ V for Victory is ideal!
 ## Fun
 
 - The company is not your baby, you don't sell your baby you don't rename your baby
+
+## Meetings
+
+- The less meetings the better (Can this be an email?)
+- No longer than 30 min meetings (energy drains otherwise)
