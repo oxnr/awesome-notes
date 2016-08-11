@@ -160,3 +160,4 @@ V for Victory is ideal!
 
 - The less meetings the better (Can this be an email?)
 - No longer than 30 min meetings (energy drains otherwise)
+- All meetings should have an explanatory title and a description so everyone can prepare and knows the purpose, goals, scope etc.
