@@ -25,3 +25,5 @@
 - Logic will get you from A to Z; imagination will get you everywhere.
 
 - If you start walking the way, the way appears.
+
+- In world that is changing so quickly the biggest risk you can take is not taking any risk.
