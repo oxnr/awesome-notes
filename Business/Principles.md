@@ -165,7 +165,7 @@ V for Victory is ideal!
 ## Learning
 
 - Everything has to be simple and sexy
-- Can't be to core because than requirements explode and people built it themselves
+- Can't be too core because than requirements explode and people built it themselves
 - For the others where it isn't core its not important enough to buy or prioritize
 - Everybody including my mom has to understand
 - Don't overengineer solutions keep it stupid simple
