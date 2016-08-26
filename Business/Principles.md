@@ -164,3 +164,11 @@ V for Victory is ideal!
 
 ## Learning
 
+- Everything has to be simple and sexy
+- Can't be to core because than requirements explode and people built it themselves
+- For the others where it isn't core its not important enough to buy or prioritize
+- Everybody including my mom has to understand
+- Don't overengineer solutions keep it stupid simple
+- Optimize for ROI for customer (i.e. revenue)
+- Measure impact of your solution don't just assume
+- Save costs or increase revenue and target exactly what you do. If you don't want to be in the costs game but don't increase revenues in a measurable way, you lost.
