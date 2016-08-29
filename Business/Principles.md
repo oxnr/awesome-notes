@@ -172,3 +172,4 @@ V for Victory is ideal!
 - Optimize for ROI for customer (i.e. revenue)
 - Measure impact of your solution don't just assume
 - Save costs or increase revenue and target exactly what you do. If you don't want to be in the costs game but don't increase revenues in a measurable way, you lost.
+- Never ever work on something with people that spread negative energy and have a negative attitude, a constructive positive mindset always wins.
