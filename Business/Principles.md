@@ -174,3 +174,7 @@ V for Victory is ideal!
 - Save costs or increase revenue and target exactly what you do. If you don't want to be in the costs game but don't increase revenues in a measurable way, you lost.
 - Never ever work on something with people that spread negative energy and have a negative attitude, a constructive positive mindset always wins.
 - Tech is wort nothing, its toxic to prioritize technical sanity of a system higher than the customer experience.
+
+## Future
+
+- Think about in detail, how the world is going to look in the future. 10 - 20 - 50 years from now.
