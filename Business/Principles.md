@@ -178,3 +178,4 @@ V for Victory is ideal!
 ## Future
 
 - Think about in detail, how the world is going to look in the future. 10 - 20 - 50 years from now.
+- Introducing SaaS tools for x, y and z introduces a new set of problems (Service reliability, Data sync ancross services, Changing Processes and Architecture to tools and not the other way around. Eventually Google and Amazon will provide enough conveneince for all those smaller features-as-a-service. Many tools will die for example.
