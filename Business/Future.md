@@ -72,6 +72,15 @@ Analyze the past
 - Cure diseases with genes
 - Biotech and medicine
 
+- Democratization of Education through Tech
+- VR: Everybody can be in class or have a 1 on 1 with somebody else
+- Delivery of Tech Biggest Problem (800 million people without access to education)
+
+- Terrorattacks by controling drones or cars
+
+- Flash Tourism industry through VR
+- Energy storages in each home (sufficient)
+
 Topics:
 
 - AI
