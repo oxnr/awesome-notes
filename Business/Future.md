@@ -85,6 +85,9 @@ Analyze the past
 - Automatization of commodity work
 - Universal basic income
 
+- Cryptocurrency
+- Bypassing state regulations
+
 Topics:
 
 - AI
