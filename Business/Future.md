@@ -58,8 +58,6 @@ Analyze the past
 - Blinkist ask garry vee
 - Bots will get famous, influencer
 
-Order poster, never train mediocracy.
-
 - Create overview.
 - Drones
 - 3d print organs
