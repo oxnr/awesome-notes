@@ -175,6 +175,20 @@ V for Victory is ideal!
 - Never ever work on something with people that spread negative energy and have a negative attitude, a constructive positive mindset always wins.
 - Tech is wort nothing, its toxic to prioritize technical sanity of a system higher than the customer experience.
 
+## Gary
+
+- Not just check the box, add value
+- Be patient
+- Be self-aware
+- The truth os the truth is the truth
+- Strange time we pay more attention to the negative than to positive
+- Pivot full or not at all
+- Where is the attention of the people you're trying to reach and how do you be creative on it.
+- The VC game is predicated by the one unicorn out of 100 who going to pay for the fund.
+- Don't read or learn. Observe the market and behavior and understand whats really going on. Science and content will always be too late.
+- Quality oder quantity always
+- Do work that is actually useful
+
 ## Future
 
 - Think about in detail, how the world is going to look in the future. 10 - 20 - 50 years from now.
