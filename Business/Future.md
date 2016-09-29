@@ -81,6 +81,10 @@ Analyze the past
 - Flash Tourism industry through VR
 - Energy storages in each home (sufficient)
 
+- One man everything
+- Automatization of commodity work
+- Universal basic income
+
 Topics:
 
 - AI
