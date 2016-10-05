@@ -193,3 +193,23 @@ V for Victory is ideal!
 
 - Think about in detail, how the world is going to look in the future. 10 - 20 - 50 years from now.
 - Introducing SaaS tools for x, y and z introduces a new set of problems (Service reliability, Data sync ancross services, Changing Processes and Architecture to tools and not the other way around. Eventually Google and Amazon will provide enough conveneince for all those smaller features-as-a-service. Many tools will die for example.
+
+## Learnings New
+
+- Dont follow the zeitgeist, be opinionated and do what you think is right.
+- Once something goes good you go on defense is the second you start loosing.
+- Meditation in 20 years is todays fitness industry with all its facettes.
+- *Build anything that sells time.*
+- Every second that goes by time is becoming more valuable. Time #1 resource.
+- Quality oder quantity always.
+- Dont read or learn. Observe the market and behaviour and understand whats really going on. Science and content will always be too late.
+- The VC game is predicated by the one unicorn out of 100 who going to pay for the fund.
+- Where is the attention of the people you're trying to reach and how do you be creative on it.
+
+## Trends
+
+- B2B VR
+- E-Sports
+- Meditation
+
+
