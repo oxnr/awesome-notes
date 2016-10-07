@@ -205,6 +205,7 @@ V for Victory is ideal!
 - Dont read or learn. Observe the market and behaviour and understand whats really going on. Science and content will always be too late.
 - The VC game is predicated by the one unicorn out of 100 who going to pay for the fund.
 - Where is the attention of the people you're trying to reach and how do you be creative on it.
+- Its just business, perspective is everything, don't make it more important than life and death.
 
 ## Trends
 
