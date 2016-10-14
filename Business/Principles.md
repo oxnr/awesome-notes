@@ -215,4 +215,4 @@ V for Victory is ideal!
 
 ## Interesting
 
-- Track progress like
+- Track progress like https://www.indiehackers.com/blog
