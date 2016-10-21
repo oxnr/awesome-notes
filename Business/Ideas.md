@@ -15,3 +15,5 @@
 - SDK FriendsLayer from Phone number aka Slayer
 - Data science as a service / Prediction API
 - Product hunt, growth hackers for data science
+- Data browser for Firebase
+- Marketplace for ml models where researchers and scientists get paid, hosted vs. downloadable (free open sulture)
