@@ -17,3 +17,4 @@
 - Product hunt, growth hackers for data science
 - Data browser for Firebase
 - Marketplace for ml models where researchers and scientists get paid, hosted vs. downloadable (free open sulture)
+- Tensorflow marketplace or abstraction for vision, audio, text etc.
