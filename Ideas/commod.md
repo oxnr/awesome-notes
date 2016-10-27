@@ -1,6 +1,9 @@
+Machine learning has been commoditized - so what?
+
 Finally, machine learning is commoditized. Do down that freaking Gartner latter from maturity..
 
 http://blog.niraj.io/the-commoditization-of-machine-learning
+https://hbr.org/2016/10/machine-learning-is-no-longer-just-for-experts
 
 Implications of commoditizations
 
@@ -53,7 +56,3 @@ Implications of commoditizations
 - Everything will be commoditized and the big one (AWS, GCP, Microsoft) will own it, eventually.
 
 - Google started publishing papers where Hadoop, HDFS, HBase was intended. Now they're just releasing Tensorflow.
-
-## Sources
-
-- https://hbr.org/2016/10/machine-learning-is-no-longer-just-for-experts
