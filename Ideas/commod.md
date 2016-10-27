@@ -1,4 +1,8 @@
-Machine learning has been commoditized - so what?
+Title: 
+
+- Machine learning has been commoditized - so what?
+- What commoditization of machine learnings means.
+- Implications of coomoditazation of machine learning.
 
 Finally, machine learning is commoditized. Do down that freaking Gartner latter from maturity..
 
