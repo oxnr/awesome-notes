@@ -223,3 +223,4 @@ V for Victory is ideal!
 - Whatever you can do in the next minutes, do it right away.
 - Cloud is all about being the fastest, cheapest and most convenient infrastructure.
 - Be accountable for someone so the results are better.
+- Never ever let people with a toxic influence towards team and culture enter your journey.
