@@ -10,7 +10,7 @@
 
 > Live as if you were to die tomorrow. Learn as if you were to live forever.
 
-> You must begin but studying the end game!
+> You must begin by studying the end game!
 
 > A good plan violently executed today is better than a perfect plan tomorrow
 
@@ -26,6 +26,6 @@
 
 > If you start walking the way, the way appears.
 
-> In world that is changing so quickly the biggest risk you can take is not taking any risk.
+> In a world that is changing so quickly the biggest risk you can take is not taking any risk.
 
 > It is not the strongest of the species that survives, nor the most intelligent that survives. It is the one that is most adaptable to change.

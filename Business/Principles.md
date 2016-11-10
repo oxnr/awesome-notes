@@ -203,7 +203,7 @@ V for Victory is ideal!
 - Every second that goes by time is becoming more valuable. Time #1 resource.
 - Quality oder quantity always.
 - Dont read or learn. Observe the market and behaviour and understand whats really going on. Science and content will always be too late.
-- The VC game is predicated by the one unicorn out of 100 who going to pay for the fund.
+- The VC game is predicat ed by the one unicorn out of 100 who going to pay for the fund.
 - Where is the attention of the people you're trying to reach and how do you be creative on it.
 - Its just business, perspective is everything, don't make it more important than life and death.
 
@@ -224,3 +224,50 @@ V for Victory is ideal!
 - Cloud is all about being the fastest, cheapest and most convenient infrastructure.
 - Be accountable for someone so the results are better.
 - Never ever let people with a toxic influence towards team and culture enter your journey.
+- Always look at past present and future and identify the big pattern
+- Don't decide right away, think , research and then draw informed conclusions.
+- Don't work on generalized problems, work on something very specific that you've experienced.
+- Apply Hacker Mindset (Break things, out of the box, use systems)
+- Don't look for the shortcut, there is none.
+- Don't do something with the intent to cash in on it, other person will taste it. Give value many times and then just ask (don't take).
+- Guilt people into being interested, don't sell.
+- Provide upfront value with 0 expectations in return on a micro level (do on a macro).
+- Don't create a startup to sell but a business to sustain
+- Be personal & be vulnerable
+- Transparent about revenue, growth stats, tech
+- Don't multitask
+- Do fewer things
+- Say no to anythings else
+- Blog post from Indiehackers
+- Video from Spotify
+- Goal: Find Customers & prove that Business is Viable
+- Hypothesis: Startups are not tiny versions of big companies so can't use same methods.
+- Position yourself as an expert in ONE thing (per brand).
+- There has to be a core value to a product (scraped data, connect to celeb, ship something, add value etc.)
+- Create [Routine](https://www.indiehackers.com/images/content/old-geek-jobs-ben-franklin-schedule.png)
+- Build your startup for what the world will be in 5 years.
+- Always slights over deliver do something more that nobody expects (i.e. draw in a chart, provide something).
+
+## Ideas
+
+- Start communities (newsletter + Meetup)
+- Leverage Instagram Shopping.
+
+## Design
+
+- Stlye: https://www.udacity.com/
+
+## Reproducable Process
+
+- Ask questions on quora
+- Ask question on reddit
+- Search on google, youtube, twitter, github
+- [...]
+
+## Solo
+
+- No communication overhead and associated costs
+- Constraints help to focus
+- " whole that is greater than the simple sum of its parts"
+- Create a business not a job. Remove overhead through automation and efficiency.
+- One core use-case create value initially
