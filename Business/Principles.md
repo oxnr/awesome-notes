@@ -271,3 +271,4 @@ V for Victory is ideal!
 - " whole that is greater than the simple sum of its parts"
 - Create a business not a job. Remove overhead through automation and efficiency.
 - One core use-case create value initially
+- If you have high salary contract out work
