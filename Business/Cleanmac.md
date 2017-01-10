@@ -32,6 +32,7 @@
 - Install VLC
 - Install zoom.us
 - Install Firefox
+- Telegram
 
 ## Development tools
 
@@ -46,3 +47,8 @@
 - 1Password Extension
 - Google Hangouts
 - uBlock Origin
+
+## Alfred
+
+- Date & Time
+- iDoneThis
