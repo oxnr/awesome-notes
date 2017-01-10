@@ -2,12 +2,9 @@
 
 - General - Use dark menu bar Dock
 - General - Default web browser Chrome
-
 - Desktop & Screen Saver - Saver.is
-
 - Keyboard - Key Repeat - Fast
 - Keyboard - Delay Until Repeat - Short
-
 - Trackpad - Fast speed
 - Trackpad - Silent Click
 
