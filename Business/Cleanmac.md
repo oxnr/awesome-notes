@@ -5,6 +5,7 @@
 - Desktop & Screen Saver - Saver.is
 - Keyboard - Key Repeat - Fast
 - Keyboard - Delay Until Repeat - Short
+- Keyboard - Shortcuts - Enable All Access (to switch tabs)
 - Trackpad - Fast speed
 - Trackpad - Silent Click
 
