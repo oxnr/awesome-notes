@@ -272,3 +272,8 @@ V for Victory is ideal!
 - Create a business not a job. Remove overhead through automation and efficiency.
 - One core use-case create value initially
 - If you have high salary contract out work
+
+- People dont buy what you do they buy why you do it
+- Chross the Chasm, the early majoritz doesnt try unless someone else tried it first. 14%
+- What you do serves as the prove of hat you believe
+- Deadline super important (panic monster)
