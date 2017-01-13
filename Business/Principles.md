@@ -277,3 +277,5 @@ V for Victory is ideal!
 - Chross the Chasm, the early majoritz doesnt try unless someone else tried it first. 14%
 - What you do serves as the prove of hat you believe
 - Deadline super important (panic monster)
+
+- Dont predict future on own experience but rational futurism and curve
