@@ -279,3 +279,16 @@ V for Victory is ideal!
 - Deadline super important (panic monster)
 
 - Dont predict future on own experience but rational futurism and curve
+
+## Achieve goals
+
+### Enabling Environment
+
+- Foster enabling morning routine
+- Optimized nutrition plan
+- Excerice
+
+### Remove distractions and temptations
+
+- No shit at home or your workplace
+- Brief people so they can support you
