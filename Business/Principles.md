@@ -292,3 +292,197 @@ V for Victory is ideal!
 
 - No shit at home or your workplace
 - Brief people so they can support you
+
+## Notes
+
+1. For who?
+
+
+For people who want to achieve x.
+
+
+2. Specific Goals?
+
+
+Get 5k for your offer its real.
+
+
+3. My promise
+
+
+Anleitung to achieve x.
+
+
+4. Who am I?
+
+
+I did x,y,z
+
+
+5. Testimonials
+
+
+
+—
+Mindsets
+
+
+1. Full integrity
+
+No bullshit
+
+Be the best
+
+Lasse nicht zu das Kunden was machen, wenn du nicht 100% überzeugt bist
+
+2. Only Premium pricing
+
+
+You don’t sell your time or knowledge
+You sell the value that you provide, thats the price
+Result matters
+
+Effort is exactly the same so do premium only
+
+
+1. The process for everything
+
+
+1. Blogpost: Stop researching already!
+
+
+When my previous company got acquired and started thinking a lot whats next. One thing I had in mind for a lot was projects for complete freedom. No, not getting rich and famous but being free, which for me means.
+
+
+So i started researching
+
+
+The snowball effekt happened
+
+
+I grew never ending lists and notes on google keep, github etc.
+
+
+So I started to think about allocation of time and analysed my work using rescue time gyroscope etc.
+
+
+The results where shocking.
+
+
+I spend 80% of my day researching. I like researching and I believe I’m good at it. But it doesn’t create any value for anybody else but me. That has to change: 
+
+
+Nonlinear thinking means which way you should go depends on where you already are.
+Example: Relation between eating and health
+Nonlinear thinking means which way you should go depends on where you already are.
+Example: Relation between eating and health
+
+
+Problems:
+
+
+Instant gratification make us impatient
+Building long strong relationships is important
+
+
+Routine:
+
+
+Cold shower
+Vitamin D
+
+
+Add challenges lime picture a day
+
+
+50 Pushups
+50 Squads
+50 Situps
+
+
+1.
+
+
+Find target customer nieche
+Restrict nieche to become more relevand charge more 10x both
+
+
+Define Result & Impact
+What will the customer have “Ich zeige meinem Kunden, wie er ein ERGEBNIS X in einem ZEITRAUM Z ohne das PROBLEM P und den SCHMERZ S erreicht!” 
+
+Problems:
+
+
+Instant gratification make us impatient
+Building long strong relationships is important
+
+
+Routine:
+
+
+Cold shower
+Vitamin D
+
+Add challenges lime picture a day
+
+
+50 Pushups
+50 Squads
+50 Situps
+
+
+1.
+
+
+Find target customer nieche
+Restrict nieche to become more relevand charge more 10x both
+
+
+Define Result & Impact
+What will the customer have “Ich zeige meinem Kunden, wie er ein ERGEBNIS X in einem ZEITRAUM Z ohne das PROBLEM P und den SCHMERZ S erreicht!” 
+
+
+Talk about customer problems and not you
+Solve real problems
+
+
+Create valuable content upfront for free
+
+
+Show your skills:
+
+
+Content
+Articles
+Blogposts
+Videos
+Podcasts
+eBooks
+
+
+Share your content through ads on social media PPC
+
+Organic will take months to build up
+
+Pay 200 to make 1k vs. SEO traffic after 1 year
+
+
+1000 likes
+10000 emails
+
+Organic no control who visits your site
+
+5 Good content
+3 Videos
+1 Webinar
+
+
+Offer free 1:1 consulting afterwards
+Have customer offer prepared and sell this is the best acquisition
+Increase pricing
+
+10k per month as coach minimim
+3k per month for 4 sessions a 60 minutes
+
+Webinars can be scheduled and planned
+A new way to think about time.
