@@ -263,15 +263,25 @@ Remember the schedules when you were at school, where every subject was planned 
 Here is a plan, that I thought will work for me:
 
 05h - Thinking (3%)
+
 17h - Researching (10%)
+
 05h - Communicate (3%)
+
 12h - Prepare (7%)
+
 03h - Perform (2%)
+
 22h - Create (13%)
+
 02h - Transport (1%)
+
 55h - Regenerate (32%)
+
 09h - Exercise (5%)
+
 34h - Leisure (25%)
+
 04h - Others (2%)
 
 Knowing what I’m spending my time on allowed me to think about how I actually want to spend it. It made me actively change my schedule such as:
