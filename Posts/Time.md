@@ -313,7 +313,7 @@ Disclaimer: This is no idea of my own and I find it so eye opening that I have t
 
 Time is the single most important asset of our time. Everything that saves time will be used and everything that costs time is annoying.
 
-### So what?
+### So what? Evaluate your time today.
 
 Decide where you want to spend your time and more importantly where not to spend it.
 
