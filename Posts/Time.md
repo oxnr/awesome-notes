@@ -6,8 +6,8 @@
 2. Why (Problem)
 3. How
 	- 1. Analyze status quo
-	* 2. Define goals
-	* 3. A new time framework
+	- 2. Define goals
+	- 3. A new time framework
 		- Thinking
 		- Researching
 		- Communicate
@@ -22,9 +22,10 @@
 4. Result
 	- Impact
 5. Conclusion
-	* Summary
-	* So what?
+	- Summary
+	- So what?
 ---
+
 (What you’ll learn under the first picture)
 
 Spend more time on the things that matter and stop wasting time on unimportant tasks. This posts put a lot of emphasis on the time that other studies often times just summarize as work related topics and is an attempt to break down my own time more than anything else. Theres been some people who appreciated my advise and hope it’ll help you too.
