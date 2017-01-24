@@ -327,3 +327,5 @@ When I’m not writing, I’m working at Localytics during the day and on indie.
 
 Follow indie.academy on Twitter
 Follow me on Twitter
+
+Accountability buddies
