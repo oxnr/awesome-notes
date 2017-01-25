@@ -496,3 +496,10 @@ A new way to think about time.
 - GH: Quote section: Thinking is the hardest work there is.
 - GH: Outsourced version diy version
 - GH: Attention is currency of the internet
+
+* Build it like a startup with a vision, mission and pitch
+revenue goals
+
+* GH: escape exaggerated correctness and break out more be free
+* GH: Youtube: Minutephysics style business lectures
+* GH: Add principles from Growth spreadsheet to manifest in Github
