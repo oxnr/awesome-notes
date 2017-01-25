@@ -369,7 +369,7 @@ So I started to think about allocation of time and analysed my work using rescue
 The results where shocking.
 
 
-I spend 80% of my day researching. I like researching and I believe I’m good at it. But it doesn’t create any value for anybody else but me. That has to change: 
+I spend 80% of my day researching. I like researching and I believe I’m good at it. But it doesn’t create any value for anybody else but me. That has to change:
 
 
 Nonlinear thinking means which way you should go depends on where you already are.
@@ -408,7 +408,7 @@ Restrict nieche to become more relevand charge more 10x both
 
 
 Define Result & Impact
-What will the customer have “Ich zeige meinem Kunden, wie er ein ERGEBNIS X in einem ZEITRAUM Z ohne das PROBLEM P und den SCHMERZ S erreicht!” 
+What will the customer have “Ich zeige meinem Kunden, wie er ein ERGEBNIS X in einem ZEITRAUM Z ohne das PROBLEM P und den SCHMERZ S erreicht!”
 
 Problems:
 
@@ -439,7 +439,7 @@ Restrict nieche to become more relevand charge more 10x both
 
 
 Define Result & Impact
-What will the customer have “Ich zeige meinem Kunden, wie er ein ERGEBNIS X in einem ZEITRAUM Z ohne das PROBLEM P und den SCHMERZ S erreicht!” 
+What will the customer have “Ich zeige meinem Kunden, wie er ein ERGEBNIS X in einem ZEITRAUM Z ohne das PROBLEM P und den SCHMERZ S erreicht!”
 
 
 Talk about customer problems and not you
@@ -486,3 +486,14 @@ Increase pricing
 
 Webinars can be scheduled and planned
 A new way to think about time.
+
+GH: Add Rewire brain to GitHub
+
+GH: Create more assets than liabities
+GH: Optimize how much money you keep not make
+GH: But everything for business fot tax benefits
+GH: Outsource eveything except the thinking
+GH: Learn what to do and why not how
+GH: Quote section: Thinking is the hardest work there is.
+GH: Outsourced version diy version
+GH: Attention is currency of the internet
