@@ -487,13 +487,12 @@ Increase pricing
 Webinars can be scheduled and planned
 A new way to think about time.
 
-GH: Add Rewire brain to GitHub
-
-GH: Create more assets than liabities
-GH: Optimize how much money you keep not make
-GH: But everything for business fot tax benefits
-GH: Outsource eveything except the thinking
-GH: Learn what to do and why not how
-GH: Quote section: Thinking is the hardest work there is.
-GH: Outsourced version diy version
-GH: Attention is currency of the internet
+- GH: Add Rewire brain to GitHub
+- GH: Create more assets than liabities
+- GH: Optimize how much money you keep not make
+- GH: But everything for business fot tax benefits
+- GH: Outsource eveything except the thinking
+- GH: Learn what to do and why not how
+- GH: Quote section: Thinking is the hardest work there is.
+- GH: Outsourced version diy version
+- GH: Attention is currency of the internet
