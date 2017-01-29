@@ -503,3 +503,30 @@ revenue goals
 * GH: escape exaggerated correctness and break out more be free
 * GH: Youtube: Minutephysics style business lectures
 * GH: Add principles from Growth spreadsheet to manifest in Github
+
+* Book: the subtle art of not giving a fuck
+* Life will be constant problem solving
+* Learn to love process
+* Learn not give a fuck, what can happen?
+* Entrepreneurship for selbsbestimmung fuck the hype
+* What criteria do you measure your success on?
+* 5k per Month
+
+* Send courtland mail and ask for idea evaluation matrix
+* Dont build a solution looking for a problem
+* Experience a mistake is much more impactful, tragic cause mistakes are being repeated all the time.
+
+* Build something where people come back naturally dont try to nail onboarding or hack retention
+* B2B > B2C
+* Don't just build stuff, talk to customers all the time. All the time.
+* It has to be a problem that I myself have.
+* Targeting everybody is targeting nobody.
+* Think about who exactly is target group pf indie hackers.
+
+* Indie.academy: Checklist to do exactly that.
+* Add skill level to courses
+* ebook and webinar automated with follow up per project
+* Your life is a song dance to it
+* Drei gruende warum dankbar
+* Was hatte ich besser machen koennen pro tag
+* Income: Template on a marketplace & Matched Betting
